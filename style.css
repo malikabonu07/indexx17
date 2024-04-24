@@ -1,0 +1,52 @@
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://www.ultratechcement.com/content/dam/ultratechcement/different-types-of-stairs.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box1 {
+    width: 200px;
+    height: 80px;
+    border: 3px solid black ;
+    background: transparent;
+    margin: auto;
+    font-size: 40px;
+    position: relative;
+    top:100px ; 
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.box2 {
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 650px;
+    top: 100px;
+    font-size: 30px;
+    padding-left: 40px;
+}
+.button {
+    width: 150px;
+    height: 60px;
+    background-color: red;
+    color: white;
+    border-style: solid;
+    border: 3px red;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    position: relative;
+    left:1050px ; 
+    bottom: 60px;
+}
+.h2 {
+    color: forestgreen;
+    font-size: 50px;
+    
+}
